@@ -21,9 +21,15 @@ In this project, I defined and trained a DCGAN on a CelebA dataset with the goal
 
 ## Hyperparameters used:
 > Batch Size = 32
+> > 
 > Generated Image Size = 32 x 32
+> > 
 > Eength of latent vector z = 100
+> > 
 > Number of Filters in Discriminator's first hidden layer = 32
+> 
 > Number of Filters in Generator's first hidden layer = 32
+> 
 > Initial Learning Rate, [beta1, beta2] = 0.0005, [0.1, 0.9]
+> 
 > Number of Epochs = 10
