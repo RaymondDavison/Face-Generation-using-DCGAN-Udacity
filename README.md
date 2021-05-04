@@ -11,13 +11,13 @@ In this project, I defined and trained a DCGAN on a CelebA dataset with the goal
 - Define the Model
 - Discriminator
 - Generator
-- Initialize the weights of your network
-- Build complete network
+-  Weights Initialization
+-  Build complete network
 - Discriminator and Generator Losses
 - Optimizers
 - Training
-- Training Loss
-Generator samples from training
+- Training Loss 
+- Generator samples from training
 
 ## Hyperparameters used:
 Batch Size = 32
